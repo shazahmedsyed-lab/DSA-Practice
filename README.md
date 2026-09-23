@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
