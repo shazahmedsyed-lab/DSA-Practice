@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shazahmedsyed-lab/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
